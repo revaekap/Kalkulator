@@ -9,5 +9,5 @@ function switchMode() {
     window.currentMode = "light";
   }
   var link = document.getElementById("css-mode");
-  link.setAttribute("href", cssStyle);
+  link.setAttribute("href", "https://revaekap.github.io/Kalkulator/" + cssStyle);
 }
