@@ -1,0 +1,59 @@
+.kalkulator {
+  background-color: #fff;
+}
+
+.kalkulator p {
+  color: #2c3039;
+}
+
+input {
+  background-color: #eeefef;
+  color: #2c3039;
+}
+
+button {
+  background-color: #eeefef;
+  color: #2c3039;
+}
+
+button:hover {
+  color: #eeefef;
+  background-color: #2c3039;
+}
+
+button.angka {
+  background-color: #eeefef;
+  color: #2c3039;
+}
+
+button.angka:hover {
+  background-color: #2c3039;
+  color: #eeefef;
+}
+
+button.op {
+  color: #ec6666;
+}
+
+button.op:hover {
+  background-color: #ec6666;
+  color: #292d36;
+}
+
+button.op-2 {
+  color: #278276;
+}
+
+button.op-2:hover {
+  background-color: #278276;
+  color: #292d36;
+}
+
+button.op-3 {
+  color: #056bfc;
+}
+
+button.op-3:hover {
+  background-color: #056bfc;
+  color: #292d36;
+}
